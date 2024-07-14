@@ -10,7 +10,7 @@ To use this application, you need to have `node.js` and `npm` installed on your 
 
 ## How to get Started?
 
-First, Clone the repository on your local machine using `git clone https://github.com/Cs-253-Team-4/Cs-253-Team-4-Evensplit.git`, then run the following commands:
+First, Clone the repository on your local machine, then run the following commands:
 
 1. Open a terminal in the main directory, backend directory, and frontend directory.
 2. In the main directory, run `npm install` to install the project dependencies.
